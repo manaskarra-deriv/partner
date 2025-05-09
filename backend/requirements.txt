@@ -1,0 +1,11 @@
+pandas
+unstructured[xlsx]
+openai
+langchain
+Flask
+python-dotenv
+plotly
+flask-cors
+langchain-openai
+html5lib
+pyarrow 
