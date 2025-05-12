@@ -36,7 +36,7 @@ function CountryAnalysisPage() {
   const [allCountryData, setAllCountryData] = useState([]);
   
   // Add state for collapsible section
-  const [isCountrySelectionCollapsed, setIsCountrySelectionCollapsed] = useState(false);
+  const [isCountrySelectionCollapsed, setIsCountrySelectionCollapsed] = useState(true);
   
   // State variables for data source and GP Team Region
   const [dataSource, setDataSource] = useState(null);
